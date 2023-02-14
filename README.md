@@ -47,8 +47,6 @@
 
 ### Contact Me:
 
-📧 E-mail: kvap224@gmail.com
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kevin-p-131203255/)
 
 
