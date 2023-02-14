@@ -45,6 +45,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kpv22&theme=dark)](https://git.io/streak-stats)
 
-Contact Me
+### Contact Me:
+
 📧 E-mail: kvap224@gmail.com
-💼 LinkedIn: [Kevin P](https://www.linkedin.com/in/kevin-p-131203255/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kevin-p-131203255/)
+
+
