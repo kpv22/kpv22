@@ -1,6 +1,10 @@
 <div id="header" align="center">
 <img src="https://miro.medium.com/max/640/1*82D2cg8Gpe9CVISaph6RPg.gif" width="400" height="200">
-<h1 align="center">Hi!, I`m Kevin!!🧑‍💻</h1>
+  <div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=6000&pause=1000&color=B54322&width=435&lines=Hi!%2C+I%60m+Kevin+Picado!!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+" alt="Typing SVG" /></a>
+  
+  </div>
+
 <h3 align="center">A Full-Stack Web Developer with a passion for creating innovative and user-friendly web applications.</h3>
 </div>
 
